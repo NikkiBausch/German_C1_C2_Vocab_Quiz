@@ -14,11 +14,14 @@ def print_dictionary():
             print(key + ':', question_answer[key])
 
 def intro_message():
-    print("Welcome Message with explanation of what this is")
-    print("Welcome message")
-    print("Explanation about the testing level")
-    print("More explanation about the testing level")
-    print("Directions about Skipping")
+    print("I created this quiz to collect and test my memory on new vocab words")
+    print("that I learned while studying for the C2 OESD German Exam.")
+    print("These words are suitable for German language learners at C1 or low C2 level.")
+    print("There are 100 questions and the answers will be displayed at the end of the quiz.")
+    print("You have 3 chances to answer the question correctly.")
+    print("Type skip to move on to the next question.")
+    print("umlauted vowels and the German character for ss are not recognized by Python")
+    print("So you must use oe, ue, ae and ss where otherwise there would be characters from the German alphabet.")
     input("Press any key to start the quiz.")
     return True
 
@@ -41,8 +44,8 @@ while True:
 
     break 
    
-print(f"final score is {score}!\n\n")
-print("Want to know the correct answers? See below.")
+print(f"Dein Endergebnis ist {score} Punkte!\n\n")
+print("Die richtigen Antworten sind:")
 print_dictionary()
-print("Thanks for playing!")
+
  
