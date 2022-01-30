@@ -44,7 +44,7 @@ while True:
 
     break 
    
-print(f"Dein Endergebnis ist {score} Punkte!\n\n")
+print(f"Deine Gesamtpunktezahl ist {score} Punkte!\n\n")
 print("Die richtigen Antworten sind:")
 print_dictionary()
 
