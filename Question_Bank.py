@@ -210,53 +210,53 @@ Quiz_Bank = {
     }, 
 
     43 : {
-         "question" : "" , 
-         "answer" : ""
+         "question" : "Eine 'Hitzewelle' ist. . ." , 
+         "answer" : "a heatwave"
     }, 
 
     44 : {
-         "question" : "" , 
-         "answer" : ""
+         "question" : "Wenn Jemanden ist 'verlaesslich', es bedeutet, dass sie sind. . ." , 
+         "answer" : "reliable"
     }, 
 
     45 : {
-         "question" : "" , 
-         "answer" : ""
+         "question" : "Ein 'Flut' ist. . ." , 
+         "answer" : "a flood"
     }, 
 
     46 : {
-         "question" : "" , 
-         "answer" : ""
+         "question" : "Wie heisst 'Wucht' auf Englisch?" , 
+         "answer" : "Force"
     }, 
 
     47 : {
-         "question" : "" , 
-         "answer" : ""
+         "question" : "Wenn etwas wird als 'verheerend' beschrieben, bedeutet es auf Englisch dass es ______ ist.  " , 
+         "answer" : "devastating"
     }, 
 
     48 : {
-         "question" : "" , 
-         "answer" : ""
+         "question" : "Wie heisst 'die Verwuestung' auf Englisch?" , 
+         "answer" : "The havoc"
     }, 
 
     49 : {
-         "question" : "" , 
-         "answer" : ""
+         "question" : "Wie sagt man 'Mondfinsternis' auf Englisch?" , 
+         "answer" : "Lunar Eclipse"
     }, 
     
     50 : {
-         "question" : "" , 
-         "answer" : ""
+         "question" : "'Bei einer Sonnenfinsternis, die Sonne ist verdeckt' In diesem Satz es bedeutet, dass die Sonne ist _______ auf Englisch? " , 
+         "answer" : "concealed"
     }, 
 
     51 : {
-         "question" : "" , 
-         "answer" : ""
+         "question" : "Wenn etwas ist 'ausgedrueckt', bedeutet es auf Englisch: 'something is ______" , 
+         "answer" : "expressed"
     }, 
 
     52 : {
-         "question" : "" , 
-         "answer" : ""
+         "question" : "Wie heisst 'Betreiber' auf Englisch?" , 
+         "answer" : "Operator"
     }, 
 
     53 : {
